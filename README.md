@@ -16,10 +16,10 @@
 
 Soy desarrollador de IA en [CognitiaTech](https://cognitiatech.com), consultora tecnológica especializada en soluciones de inteligencia artificial. Me enfoco en dos áreas principales: **implementaciones de IA local** (LLMs, fine-tuning, pipelines de procesamiento documental) y el **ecosistema Microsoft** (Power Automate, Power Apps, Azure AI, Copilot Studio).
 
-- 🤖 Trabajo con la **API de Claude**, **LM Studio**, **Unsloth** y modelos locales como Qwen y Hermes
+- 🤖 Trabajo con modelos de IA locales y en la nube, desde la selección del modelo hasta su integración en producción
 - ⚡ Diseño flujos de automatización con **Power Automate** e integraciones con **Azure AI**
-- 🔍 Construyo pipelines de procesamiento documental con OCR, extracción estructurada y LLMs
-- 📍 Basado en Gran Canaria, España
+- 🔍 Construyo pipelines de procesamiento documental con OCR, extracción estructurada y LLMs entre otras cosas
+- 📍 Gran Canaria, España
 
 ---
 
