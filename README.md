@@ -16,9 +16,10 @@
 
 Soy desarrollador de IA en [CognitiaTech](https://cognitiatech.com), consultora tecnológica especializada en soluciones de inteligencia artificial. Me enfoco en dos áreas principales: **implementaciones de IA local** (LLMs, fine-tuning, pipelines de procesamiento documental) y el **ecosistema Microsoft** (Power Automate, Power Apps, Azure AI, Copilot Studio).
 
-- 🤖 Trabajo con modelos de IA locales y en la nube, desde la selección del modelo hasta su integración en producción
-- ⚡ Diseño flujos de automatización con **Power Automate** e integraciones con **Azure AI**
-- 🔍 Construyo pipelines de procesamiento documental con OCR, extracción estructurada y LLMs entre otras cosas
+- 🤖 Trabajo con **modelos de IA locales y en la nube**, desde la selección del modelo hasta su integración en producción
+- ⚡ Diseño e implemento **flujos de automatización extremo a extremo**, conectando sistemas empresariales con capacidades de IA
+- 🔍 Construyo **pipelines de procesamiento documental**: OCR, extracción estructurada, clasificación y generación con LLMs
+- ☁️ Despliego soluciones sobre **plataformas cloud** y entornos on-premise según las necesidades del cliente
 - 📍 Gran Canaria, España
 
 ---
@@ -28,18 +29,29 @@ Soy desarrollador de IA en [CognitiaTech](https://cognitiatech.com), consultora 
 **IA & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**AI Platforms & APIs**
+
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Microsoft Ecosystem**
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 **Frontend & Backend**
 
@@ -83,10 +95,6 @@ Agente que **analiza webs automáticamente** para detectar y agregar próximos e
 ## Estadísticas
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saultr21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saultr21&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saultr21&theme=github-dark-blue&hide_border=true&locale=es)
 
