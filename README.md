@@ -72,7 +72,7 @@ Herramienta web local para la **redacción de información sensible en PDFs**. D
 
 ---
 
-### 🔬 [Clasificacion-de-imagenes-hispatologicas](https://github.com/Saultr21/Clasificacion-de-imagenes-hispatologicas)
+### 🔬 [clasificacion-de-imagenes-hispatologicas](https://github.com/Saultr21/Clasificacion-de-imagenes-hispatologicas)
 Clasificador de **imágenes histopatológicas** mediante deep learning. Exploración de arquitecturas de visión por computador aplicadas a diagnóstico médico asistido.
 
 `Jupyter Notebook` `Deep Learning` `Computer Vision` `Medical AI`
