@@ -2,7 +2,7 @@
 
 # Saúl Trujillo Rodríguez
 
-**AI Developer · Power Platform Engineer · Gran Canaria, España**
+**AI Engineer · Power Platform Engineer · Gran Canaria, España**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sa%C3%BAl-trujillo-rodr%C3%ADguez-850676111/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.trujillo@cognitiatech.com)
