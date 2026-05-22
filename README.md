@@ -93,15 +93,6 @@ Agente que **analiza webs automáticamente** para detectar y agregar próximos e
 
 ---
 
-## Estadísticas
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saultr21&theme=github-dark-blue&hide_border=true&locale=es)
-
-</div>
-
----
 
 <div align="center">
 
